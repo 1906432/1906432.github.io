@@ -1,5 +1,6 @@
 @charset "UTF-8";
-
+img { max-width:100%; height:auto; }
+video { max-width:100%; height:auto; }
 h1 {
     color: rgb(226, 185, 50);
     border: rgb(74, 84, 230);
